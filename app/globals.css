@@ -1480,7 +1480,6 @@ body {
 .right-content-area {
   width: 370px;
   padding: 25px;
-  overflow-y: auto;
 }
 
 /* News Bulletin Card Styling */

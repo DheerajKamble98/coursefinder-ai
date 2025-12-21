@@ -1,7 +1,5 @@
 # CourseFinder Dashboard
 
-Dashboard for the CourseFinder educational platform. Built with Next.js 15 and Bootstrap because that's what they wanted to use.
-
 ## Features
 
 - Dashboard interface based on the Figma designs (mostly matches, close enough)
@@ -12,11 +10,6 @@ Dashboard for the CourseFinder educational platform. Built with Next.js 15 and B
 - Student application management
 - News section and events
 - Sidebar navigation
-
-## Prerequisites
-
-- Node.js 18+ (should work with 16+ but haven't tested)
-- npm or yarn
 
 ## Setup
 
